@@ -1,0 +1,14 @@
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.csproj.AssemblyReference.cache
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.AssemblyInfoInputs.cache
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.AssemblyInfo.cs
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.exe
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.deps.json
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.runtimeconfig.json
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.runtimeconfig.dev.json
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.dll
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\bin\Debug\netcoreapp3.1\AddressCalculator.pdb
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.dll
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.pdb
+C:\Users\chalermchai.pho\source\repos\AddressCalculator\AddressCalculator\obj\Debug\netcoreapp3.1\AddressCalculator.genruntimeconfig.cache
